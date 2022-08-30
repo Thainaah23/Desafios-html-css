@@ -1,0 +1,14 @@
+section{
+    margin-top: 100px;
+    text-align: center; 
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+    background-color: aqua;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+
+}

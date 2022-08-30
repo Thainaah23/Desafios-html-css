@@ -1,0 +1,7 @@
+img{
+    position: absolute;
+    right: 50%;
+    margin-top: 30px;
+    border:dotted;
+    border-radius: 10%;
+}

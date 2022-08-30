@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(207, 245, 245);
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-style: dotted;
+    border-color: indigo;
+    border-width: 5px;
+    border-radius: 10px;
+
+}
+header{
+    font-size: 15pt;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px;
+    height: max-content;
+}
+p{
+    font-size: 13pt;
+}

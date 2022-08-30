@@ -1,0 +1,35 @@
+input{
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    border-style: dashed;
+    border-width: 5px;
+}
+body{
+text-align: center;
+background-image: url(animais.jpg);
+}
+
+section{
+    background-color: whitesmoke;
+    margin: auto;
+    width: 500px;
+    height: max-content;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+    font-size: 15pt;
+}
+footer{
+    margin-top: 100px;
+}
+h1{
+    font-size: 30pt;
+    font-size: 30pt;
+    background-color: whitesmoke;
+    width: 550px;
+    margin: auto;
+    border-style: dashed;
+    border-width: 5px;
+    border-radius: 15px;
+}
